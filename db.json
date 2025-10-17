@@ -1,0 +1,8 @@
+{
+  "pump": {
+    "comando": "APAGAR"
+  },
+  "soil": {
+    "status": "Seco"
+  }
+}

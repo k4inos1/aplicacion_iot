@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aplicacion_iot</string>
+
+    <!-- For activity_main.xml -->
+    <string name="soil_status_label">Estado del Suelo:</string>
+    <string name="soil_status_wet">Húmedo</string>
+    <string name="soil_status_dry">Seco</string>
+    <string name="pump_status_initial_text">Bomba: Apagada</string>
+
+    <!-- For MainActivity.kt -->
+    <string name="pump_status_template">Bomba: %s</string>
+    <string name="permission_granted_snackbar">Permiso de notificaciones concedido.</string>
+    <string name="permission_denied_snackbar">Funcionalidad de notificaciones deshabilitada.</string>
+    <string name="permission_rationale_snackbar">Se necesitan permisos de notificación para avisarte del estado de la bomba.</string>
+
+</resources>
